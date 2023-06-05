@@ -1,6 +1,6 @@
 const tripsData = [
   {
-    id: 1,
+    slug: 1,
     name: "Petra Hike",
     city: "maan",
     slug: "petra-hike",
@@ -12,7 +12,7 @@ const tripsData = [
     rating: "3/5",
   },
   {
-    id: 2,
+    slug: 2,
 
     name: "Wadi-rum Hike",
     city: "maan",
@@ -27,7 +27,7 @@ const tripsData = [
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wadi_Rum_in_December.jpg/1200px-Wadi_Rum_in_December.jpg",
   },
   {
-    id: 3,
+    slug: 3,
 
     name: "Dana hike",
     slug: "dana-hike",
@@ -42,7 +42,7 @@ const tripsData = [
     img: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dana_Reserve_02.jpg",
   },
   {
-    id: 4,
+    slug: 4,
 
     name: "ًWadi Araba Hike",
     city: "maan",
@@ -57,7 +57,7 @@ const tripsData = [
     img: "https://www.ammonnews.net/img/big/20091027big491941.jpeg?medium",
   },
   {
-    id: 5,
+    slug: 5,
 
     name: "ًWadi Ghuwair Hike",
     city: "ajloun",
@@ -73,7 +73,7 @@ const tripsData = [
     img: "https://alrai.com/uploads/images/2019/08/01/179387.jpg?t=1",
   },
   {
-    id: 6,
+    slug: 6,
 
     name: "Ajloun Hike",
     slug: "ajloun-hike",
